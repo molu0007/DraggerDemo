@@ -1,0 +1,4 @@
+#Wed Apr 08 11:02:22 CST 2020
+base.0=/Users/dengwengen/AndroidStudioProjects/Dagger2Demo/DraggerDemo/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
